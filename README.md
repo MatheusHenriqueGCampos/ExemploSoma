@@ -29,3 +29,28 @@
 
 ![Captura de tela 2024-03-14 115644](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/2fea4366-e59f-4d47-b0e4-487aed81d9aa)
 <h5></h5>
+<br>
+
+![Capturar - 5](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/f9e41212-dbde-44ca-b7d3-a5fe6da73599)
+<h5></h5>
+<br>
+
+![Capturar - 6](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/d13163b3-9475-48de-b5eb-cf75d90ab4bc)
+<h5></h5>
+<br>
+
+![Capturar - 7](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/3122e587-6a41-42fa-a790-df421c63ed1e)
+<h5></h5>
+<br>
+
+![Capturar - 10](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/a28c60c6-9c06-4c34-bc1e-4108094ff2ff)
+<h5></h5>
+<br>
+
+![Capturar - 8](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/9e295a23-dbec-44c7-9564-d73b36e41ae3)
+<h5></h5>
+<br>
+
+![Capturar - 9](https://github.com/MatheusHenriqueGCampos/ExemploSoma/assets/160675046/be4a1f63-688a-424e-80e7-1ded83db21ae)
+<h5></h5>
+<br>
