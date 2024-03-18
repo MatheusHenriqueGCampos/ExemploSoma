@@ -1,0 +1,20 @@
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.AssemblyReference.cache
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.formnumero.resources
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.cache
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\2jd\Desktop\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.AssemblyReference.cache
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.formnumero.resources
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.cache
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\2jd\Desktop\Matheus e Murilo\Atividade da Nivia\Exemplo1\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
