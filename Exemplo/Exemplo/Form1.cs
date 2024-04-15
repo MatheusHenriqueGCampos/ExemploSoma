@@ -46,5 +46,12 @@ namespace Exemplo
         {
             Application.Exit();
         }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 desc = new Form3();
+            desc.Show();
+        }
     }
 }

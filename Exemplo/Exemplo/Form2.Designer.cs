@@ -39,6 +39,7 @@
             this.btnsair = new System.Windows.Forms.Button();
             this.lblregiao = new System.Windows.Forms.Label();
             this.txtregiao = new System.Windows.Forms.TextBox();
+            this.btnvoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblpreco
@@ -114,12 +115,13 @@
             // 
             // btnsair
             // 
-            this.btnsair.Location = new System.Drawing.Point(424, 263);
+            this.btnsair.Location = new System.Drawing.Point(573, 263);
             this.btnsair.Name = "btnsair";
             this.btnsair.Size = new System.Drawing.Size(75, 23);
             this.btnsair.TabIndex = 8;
             this.btnsair.Text = "Sair";
             this.btnsair.UseVisualStyleBackColor = true;
+            this.btnsair.Click += new System.EventHandler(this.btnsair_Click);
             // 
             // lblregiao
             // 
@@ -136,14 +138,25 @@
             this.txtregiao.Location = new System.Drawing.Point(73, 162);
             this.txtregiao.Name = "txtregiao";
             this.txtregiao.ReadOnly = true;
-            this.txtregiao.Size = new System.Drawing.Size(100, 20);
+            this.txtregiao.Size = new System.Drawing.Size(149, 20);
             this.txtregiao.TabIndex = 10;
+            // 
+            // btnvoltar
+            // 
+            this.btnvoltar.Location = new System.Drawing.Point(408, 263);
+            this.btnvoltar.Name = "btnvoltar";
+            this.btnvoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnvoltar.TabIndex = 11;
+            this.btnvoltar.Text = "Voltar";
+            this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnvoltar);
             this.Controls.Add(this.txtregiao);
             this.Controls.Add(this.lblregiao);
             this.Controls.Add(this.btnsair);
@@ -175,5 +188,6 @@
         private System.Windows.Forms.Button btnsair;
         private System.Windows.Forms.Label lblregiao;
         private System.Windows.Forms.TextBox txtregiao;
+        private System.Windows.Forms.Button btnvoltar;
     }
 }

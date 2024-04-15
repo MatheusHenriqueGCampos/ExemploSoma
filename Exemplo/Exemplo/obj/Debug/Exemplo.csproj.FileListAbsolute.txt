@@ -29,3 +29,4 @@ C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.c
 C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
 C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.exe
 C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.Form3.resources

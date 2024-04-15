@@ -37,6 +37,7 @@
             this.txtresultado = new System.Windows.Forms.TextBox();
             this.btnlimpar = new System.Windows.Forms.Button();
             this.btnsair = new System.Windows.Forms.Button();
+            this.btnvoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblnumero1
@@ -116,7 +117,7 @@
             // 
             this.btnsair.BackColor = System.Drawing.Color.DarkGray;
             this.btnsair.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnsair.Location = new System.Drawing.Point(283, 179);
+            this.btnsair.Location = new System.Drawing.Point(431, 179);
             this.btnsair.Name = "btnsair";
             this.btnsair.Size = new System.Drawing.Size(75, 23);
             this.btnsair.TabIndex = 8;
@@ -124,12 +125,25 @@
             this.btnsair.UseVisualStyleBackColor = false;
             this.btnsair.Click += new System.EventHandler(this.btnsair_Click);
             // 
+            // btnvoltar
+            // 
+            this.btnvoltar.BackColor = System.Drawing.Color.DarkGray;
+            this.btnvoltar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnvoltar.Location = new System.Drawing.Point(307, 179);
+            this.btnvoltar.Name = "btnvoltar";
+            this.btnvoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnvoltar.TabIndex = 9;
+            this.btnvoltar.Text = "Voltar";
+            this.btnvoltar.UseVisualStyleBackColor = false;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
+            // 
             // formnumero
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnvoltar);
             this.Controls.Add(this.btnsair);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.txtresultado);
@@ -157,6 +171,7 @@
         private System.Windows.Forms.TextBox txtresultado;
         private System.Windows.Forms.Button btnlimpar;
         private System.Windows.Forms.Button btnsair;
+        private System.Windows.Forms.Button btnvoltar;
     }
 }
 

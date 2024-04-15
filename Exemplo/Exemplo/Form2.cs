@@ -27,6 +27,7 @@ namespace Exemplo
             txtcodigo.Clear();
             txtdesconto.Clear();
             txtpreco.Clear();
+            txtregiao.Clear();
             txtpreco.Focus();
         }
 
@@ -67,8 +68,23 @@ namespace Exemplo
                 txtdesconto.Text = descon.ToString();
                 txtregiao.Text = "Centro-Oeste";
             }
-
+            else
+            {
+                txtregiao.Text = "O Produto é Impotado";
+            }
             
+        }
+
+        private void btnsair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 desc = new Form3();
+            desc.Show();
         }
     }
 }
