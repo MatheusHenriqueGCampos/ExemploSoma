@@ -1,6 +1,6 @@
 ﻿namespace Exemplo
 {
-    partial class formnumero
+    partial class frmsoma
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -137,7 +137,7 @@
             this.btnvoltar.UseVisualStyleBackColor = false;
             this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
-            // formnumero
+            // frmsoma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -153,7 +153,8 @@
             this.Controls.Add(this.lblresutado);
             this.Controls.Add(this.lblnumero2);
             this.Controls.Add(this.lblnumero1);
-            this.Name = "formnumero";
+            this.Name = "frmsoma";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Soma de 2 Número";
             this.ResumeLayout(false);
             this.PerformLayout();

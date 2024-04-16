@@ -1,6 +1,6 @@
 ﻿namespace Exemplo
 {
-    partial class Form2
+    partial class frmdesconto
     {
         /// <summary>
         /// Required designer variable.
@@ -151,7 +151,7 @@
             this.btnvoltar.UseVisualStyleBackColor = true;
             this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
-            // Form2
+            // frmdesconto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -168,8 +168,9 @@
             this.Controls.Add(this.lbldesconto);
             this.Controls.Add(this.lblcodigo);
             this.Controls.Add(this.lblpreco);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "frmdesconto";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Desconto por Região";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Exemplo
 {
-    public partial class Form3 : Form
+    public partial class frmprojetos : Form
     {
-        public Form3()
+        public frmprojetos()
         {
             InitializeComponent();
         }
@@ -20,7 +20,7 @@ namespace Exemplo
         private void descontoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form2 desc = new Form2();
+            frmdesconto desc = new frmdesconto();
             desc.Show();
             
         }
@@ -28,7 +28,7 @@ namespace Exemplo
         private void somaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Hide();
-            formnumero desc = new formnumero();
+            frmsoma desc = new frmsoma();
             desc.Show();
                 
 
@@ -37,6 +37,13 @@ namespace Exemplo
         private void btnsair_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void cidadaniaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmcidadania desc = new frmcidadania();
+            desc.Show();
         }
     }
 }

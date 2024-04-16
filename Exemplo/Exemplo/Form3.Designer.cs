@@ -1,6 +1,6 @@
 ﻿namespace Exemplo
 {
-    partial class Form3
+    partial class frmprojetos
     {
         /// <summary>
         /// Required designer variable.
@@ -32,6 +32,7 @@
             this.projetosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.descontoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.somaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cidadaniaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnsair = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -50,7 +51,8 @@
             // 
             this.projetosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.descontoToolStripMenuItem,
-            this.somaToolStripMenuItem});
+            this.somaToolStripMenuItem,
+            this.cidadaniaToolStripMenuItem});
             this.projetosToolStripMenuItem.Name = "projetosToolStripMenuItem";
             this.projetosToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
             this.projetosToolStripMenuItem.Text = "Projetos";
@@ -69,6 +71,13 @@
             this.somaToolStripMenuItem.Text = "Soma";
             this.somaToolStripMenuItem.Click += new System.EventHandler(this.somaToolStripMenuItem_Click);
             // 
+            // cidadaniaToolStripMenuItem
+            // 
+            this.cidadaniaToolStripMenuItem.Name = "cidadaniaToolStripMenuItem";
+            this.cidadaniaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cidadaniaToolStripMenuItem.Text = "Cidadania";
+            this.cidadaniaToolStripMenuItem.Click += new System.EventHandler(this.cidadaniaToolStripMenuItem_Click);
+            // 
             // btnsair
             // 
             this.btnsair.Location = new System.Drawing.Point(677, 389);
@@ -79,7 +88,7 @@
             this.btnsair.UseVisualStyleBackColor = true;
             this.btnsair.Click += new System.EventHandler(this.btnsair_Click);
             // 
-            // Form3
+            // frmprojetos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -87,8 +96,9 @@
             this.Controls.Add(this.btnsair);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form3";
-            this.Text = "Form3";
+            this.Name = "frmprojetos";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Projetos";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -103,5 +113,6 @@
         private System.Windows.Forms.ToolStripMenuItem descontoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem somaToolStripMenuItem;
         private System.Windows.Forms.Button btnsair;
+        private System.Windows.Forms.ToolStripMenuItem cidadaniaToolStripMenuItem;
     }
 }

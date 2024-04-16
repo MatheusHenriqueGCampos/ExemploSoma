@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Exemplo
 {
-    public partial class formnumero : Form
+    public partial class frmsoma : Form
     {
-        public formnumero()
+        public frmsoma()
         {
             InitializeComponent();
         }
@@ -50,7 +50,7 @@ namespace Exemplo
         private void btnvoltar_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form3 desc = new Form3();
+            frmprojetos desc = new frmprojetos();
             desc.Show();
         }
     }
