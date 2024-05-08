@@ -31,3 +31,17 @@ C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.f
 C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.frmcidadania.resources
 C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.frmsoma.resources
 C:\Users\2jd\Desktop\Matheus e Murilo - Soma\Exemplo\Exemplo\obj\Debug\Exemplo.frmprojetos.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.AssemblyReference.cache
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.frmsoma.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.frmdesconto.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.frmprojetos.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.frmcidadania.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.frmfatoral.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.cache
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\2jd\Desktop\JP e Murilo\JP e Murilo - Exemplo\Exemplo\Exemplo\bin\Debug\Exemplo.pdb

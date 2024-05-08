@@ -45,5 +45,12 @@ namespace Exemplo
             frmcidadania desc = new frmcidadania();
             desc.Show();
         }
+
+        private void fatoralToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmfatoral desc = new frmfatoral();
+            desc.Show();
+        }
     }
 }

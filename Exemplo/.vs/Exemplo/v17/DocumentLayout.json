@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|c:\\users\\2jd\\desktop\\jp e murilo\\jp e murilo - exemplo\\exemplo\\exemplo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|c:\\users\\2jd\\desktop\\jp e murilo\\jp e murilo - exemplo\\exemplo\\exemplo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\exemplo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\exemplo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\exemplo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\exemplo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|c:\\users\\2jd\\desktop\\jp e murilo\\jp e murilo - exemplo\\exemplo\\exemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\exemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB568965-470B-4D33-A09F-A8E42DCF1966}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form5.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form5.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form5.cs",
+              "RelativeToolTip": "Exemplo\\Form5.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:28:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form5.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form5.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form5.cs [Design]",
+              "RelativeToolTip": "Exemplo\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:17:38.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form3.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form3.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form3.cs",
+              "RelativeToolTip": "Exemplo\\Form3.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form3.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form3.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form3.cs [Design]",
+              "RelativeToolTip": "Exemplo\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:46.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Program.cs",
+              "RelativeToolTip": "Exemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:46.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form2.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form2.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form2.cs",
+              "RelativeToolTip": "Exemplo\\Form2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADgv1YAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form2.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form2.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form2.cs [Design]",
+              "RelativeToolTip": "Exemplo\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:46.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form1.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form1.cs",
+              "RelativeToolTip": "Exemplo\\Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Form1.cs",
+              "ToolTip": "C:\\Users\\2jd\\Desktop\\JP e Murilo\\JP e Murilo - Exemplo\\Exemplo\\Exemplo\\Form1.cs [Design]",
+              "RelativeToolTip": "Exemplo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:47.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
